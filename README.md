@@ -4,8 +4,8 @@ Tetris is the most famous classic puzzle video game that has inspired countless 
 
 React Tetris with Hooks API.
 
-![screenshot](src/img/Tetris.jpg)
+![screenshot](src/img/Tetris.JPG)
 
-![screenshot](src/img/Tetris2.jpg)
+![screenshot](src/img/Tetris2.JPG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
